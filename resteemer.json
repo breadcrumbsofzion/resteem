@@ -1,0 +1,22 @@
+{
+  "rpc_nodes": [
+  "https://steem.61bts.com",
+  "https://steem.justyy.workers.dev",
+  "https://api.justyy.com",
+  "https://api.steemit.com",
+  "https://steemd.privex.io",
+  "https://steemd.pevo.science",
+  "https://api.steem-fanbase.com",
+  "https://api.steemyy.com",
+  "https://steemd.minnowsupportproject.org",
+  "https://rpc.steemviz.com"
+  ],
+  "account": "breadcrumzofzion",
+  "posting_key": "POST PRIVATE KEY GOES HERE",
+  "tags": ["hashtag1", "hashtag2", "hashtag3"],
+    "blacklist": [],    
+  "voting_percentage": 4200,
+  "blacklist_tags": [""],    
+  "interval": 61,
+  "comment": "Comments to write on Resteemed post go here, <p> can include HTML Markdown </p>"
+}
